@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 420" role="img" aria-labelledby="title desc">
+  <title id="title">Professional e-resume header image</title>
+  <desc id="desc">A neat workspace illustration with resume, laptop, portfolio cards, and warm accent shapes.</desc>
+  <rect width="1400" height="420" fill="#f5f1e8"/>
+  <path d="M0 320c160-72 278-50 430-90 150-40 246-122 444-104 170 15 266 94 526 34v260H0z" fill="#dfeeea"/>
+  <rect x="126" y="92" width="370" height="240" rx="14" fill="#ffffff" stroke="#1f6f68" stroke-width="5"/>
+  <rect x="161" y="132" width="170" height="18" rx="9" fill="#1f6f68"/>
+  <rect x="161" y="174" width="265" height="14" rx="7" fill="#a7c9c3"/>
+  <rect x="161" y="204" width="230" height="14" rx="7" fill="#a7c9c3"/>
+  <rect x="161" y="234" width="280" height="14" rx="7" fill="#a7c9c3"/>
+  <circle cx="410" cy="142" r="42" fill="#f0b35a"/>
+  <path d="M375 285h70" stroke="#1f6f68" stroke-width="12" stroke-linecap="round"/>
+  <rect x="568" y="116" width="394" height="218" rx="18" fill="#24333f"/>
+  <rect x="604" y="150" width="322" height="150" rx="8" fill="#ecf7f4"/>
+  <path d="M663 246l56-58 52 48 47-34 64 68H638z" fill="#1f6f68"/>
+  <circle cx="840" cy="185" r="22" fill="#f0b35a"/>
+  <rect x="1042" y="92" width="232" height="260" rx="18" fill="#fff" stroke="#f0b35a" stroke-width="5"/>
+  <rect x="1078" y="134" width="130" height="16" rx="8" fill="#1f6f68"/>
+  <rect x="1078" y="178" width="162" height="12" rx="6" fill="#b7d4cf"/>
+  <rect x="1078" y="206" width="130" height="12" rx="6" fill="#b7d4cf"/>
+  <rect x="1078" y="234" width="154" height="12" rx="6" fill="#b7d4cf"/>
+  <rect x="1078" y="284" width="92" height="28" rx="14" fill="#f0b35a"/>
+</svg>
