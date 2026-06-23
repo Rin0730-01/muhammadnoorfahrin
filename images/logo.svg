@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" role="img" aria-labelledby="title desc">
+  <title id="title">E-resume logo</title>
+  <desc id="desc">A monogram logo for the e-resume website.</desc>
+  <rect width="160" height="160" rx="24" fill="#1f6f68"/>
+  <circle cx="112" cy="42" r="20" fill="#f0b35a"/>
+  <path d="M34 112V38h50c23 0 39 15 39 37s-16 37-39 37H58v26H34zm24-48v28h23c12 0 20-5 20-14s-8-14-20-14H58z" fill="#fff"/>
+</svg>
