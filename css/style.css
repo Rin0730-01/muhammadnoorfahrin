@@ -1234,3 +1234,19 @@ html{
 .video-section{
     text-align:left;
 }
+
+.sitemap-grid{
+    display:grid;
+    grid-template-columns:repeat(2,1fr);
+    gap:25px;
+}
+
+.sitemap-grid ul{
+    list-style:none;
+    margin:0;
+    padding:0;
+}
+
+.sitemap-grid li{
+    margin-bottom:10px;
+}
